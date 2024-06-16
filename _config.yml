@@ -225,3 +225,8 @@ jekyll-archives:
   permalinks:
     tag: /tags/:name/
     category: /categories/:name/
+
+icon:
+  fontawesome:
+    path: /assets/font-awesome/css/all.min.css
+    enable: true
