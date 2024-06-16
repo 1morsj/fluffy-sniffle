@@ -7,7 +7,7 @@ layout: post
 tags:
 - Opinions
 - Patently Me
-title: Our Lives, Controlled From Some Guyâ€™s Couch
+title: Our Lives, Controlled From Some Guy's Couch
 ---
 
 JOHN TIERNEY of the www.nytimes.com writes how Our Lives might be [controlled from some guy's couch](http://www.nytimes.com/2007/08/14/science/14tier.html)
