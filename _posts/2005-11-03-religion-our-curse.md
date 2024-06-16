@@ -2,7 +2,6 @@
 id: 21
 title: 'Religion – Our curse?'
 date: '2005-11-03T19:38:00+05:30'
-author: 'Sunil J'
 layout: post
 categories:
     - Featured
