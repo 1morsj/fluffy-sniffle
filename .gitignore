@@ -23,8 +23,13 @@ package-lock.json
 
 # Misc
 <<<<<<< HEAD
+<<<<<<< HEAD
 # _sass/dist
 # assets/js/dist
+=======
+_sass/dist
+assets/js/dist
+>>>>>>> parent of 6bb9b2f (ignored assets/js/dist)
 =======
 _sass/dist
 assets/js/dist
