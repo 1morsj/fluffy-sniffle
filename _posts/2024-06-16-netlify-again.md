@@ -2,7 +2,7 @@
 layout: post
 title: Netlify again
 date: 2024-06-16 12:52 +0530
-categories: [random]
+categories: [Random]
 tags: [blog]
 ---
 
