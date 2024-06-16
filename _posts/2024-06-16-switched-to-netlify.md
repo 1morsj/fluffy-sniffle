@@ -3,7 +3,7 @@ layout: post
 title: Switched to Netlify
 date: 2024-06-16 14:12 +0530
 categories: [Random]
-Tags: [blog, netlify]
+tags: [blog, netlify]
 ---
 
 Finally moved to netlify! This has been in my mind for last few years, but I guess I am just lazy.
