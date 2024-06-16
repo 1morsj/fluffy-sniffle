@@ -2,6 +2,8 @@
 layout: post
 title: Yet another status update!
 date: 2024-06-16 11:04 +0530
+categories: [Random]
+tags: [blog]
 ---
 
 I started working on this and then forgot all about it. Well, this does take a lot of work and I didn't have a lot of time. 
