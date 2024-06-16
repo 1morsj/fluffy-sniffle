@@ -15,13 +15,13 @@ JOHN TIERNEY of the www.nytimes.com writes how Our Lives might be [controlled fr
 Read the article before you move down.
 
 
->Let me quote RenÃ© Descartes, "I think, therefore I am". It can be argued that the 'thought' is planted in our mind, and so, just because I think does not mean I exist. Some might even say that I exist, but in a VR program.
+>Let me quote René Descartes, "I think, therefore I am". It can be argued that the 'thought' is planted in our mind, and so, just because I think does not mean I exist. Some might even say that I exist, but in a VR program.
 
 If I am indeed a part of a VR program, then am I writing this because someone else is making me write it?
 
 I don't think so. Because, I am writing it instead of the guy next to me. Either the VR program has to select me as a person who will write something, or has to choose me at random. If I was chosen at random, then I am getting chosen a lot of times. If I was supposed to write, then I don't write often enough.
 
-Let me quote RenÃ© Descartes again, "I doubt, therefore I think, therefore I am".
+Let me quote René Descartes again, "I doubt, therefore I think, therefore I am".
 
 I am sure most people have played chess with a computer. There are programs which show the computations of the moves it is considering in real time, but once it has computed it, there is no doubt. A program cannot doubt. It chooses an option, the best one according to its calculations and then moves on. But a human being, me, doubts every move. There is always a small percentage of doubt. It might be better to say, there is a lack of 100% certainty. If I am a VR program, I wouldn't consider a Matrix like situation.
 
