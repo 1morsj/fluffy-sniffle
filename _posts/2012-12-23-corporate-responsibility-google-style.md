@@ -9,7 +9,7 @@ categories:
 tags:
     - Android
     - Apple
-    - Google
+    - google
     - iPhone
     - Opinions
     - 'Patently Me'

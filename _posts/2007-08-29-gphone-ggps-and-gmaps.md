@@ -7,7 +7,7 @@ categories:
     - Technology
 tags:
     - Computers
-    - Google
+    - google
     - gPhone
     - Opinions
     - Rumor
