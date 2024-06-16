@@ -1,0 +1,25 @@
+---
+id: 21
+title: 'Religion – Our curse?'
+date: '2005-11-03T19:38:00+05:30'
+author: 'Sunil J'
+layout: post
+categories:
+    - Featured
+tags:
+    - Opinions
+    - Patently Me
+    - Religion
+---
+
+Am I becoming irregular? I have a feeling that I am getting very erratic with my posts. I think I will leave that thought there. I had been thinking about inter-caste marriages lately. Let us say I had a reason to think about it, though I am not planning to marry anyone. I guess it is not even an issue in western countries, but when we come down to India, I have a feeling it is still a pretty big issue. I had thought that we had left that baggage when we stepped into the 21st century. But lately, I have had several reasons to think otherwise. Don’t get me wrong—I don’t mean to say that everyone in India is against inter-caste marriage. I am sure many parents are willing to accept it, but there are still many who are living in the past century, who cannot approve of a groom or a bride from another religion, who believes that the only “real” religion is their own.
+
+All right, let us go into it a bit more deeply. The problem is not restricted to a broad classification of religion alone; it is much more delicate. In the past, India might have been famous for its caste system. A system whereby people of one religion are sub-divided into lower and upper castes. During those periods, the lower caste were untouchables, and in some cases, they could not go near the upper caste people. It is not unlike the apartheid that existed in the USA, but in this caste, the criterion was not color, but caste. The lower caste were not allowed to learn, not walk near the superior caste, not allowed to go to the same temple, and were subject to a lot more social inequities. Let me get back to the topic. I have a feeling that those old systems are still ingrained into some people's minds, that even though they might talk to other caste people and touch them, they draw their lines when it comes to marriage. This usually happens with Hinduism, but I have a feeling that some Christians are also followers of the caste system.
+
+When the minds of the past generation are still polluted by this caste system, what chance does the present generation have to marry from a different religion? I am not talking about caste, but religion. Are we still so primitive to believe that the people of the world are from different religions? To think that there are different Gods? I can hear people saying that there is only one God, the rest are false Gods. If that is true, then aren’t we all the same? I can hear some more people quoting the Ten Commandments, “I am the Lord your God, thou shall have no other God before me.” Doesn’t the Commandments tell you to love your neighbor? Did Christ not say, let the person who has not sinned cast the first stone? Does it mean that you can't love a fellow being if that person is of a different religion? What right do you have to judge a person when Christ has made it clear that unless you are not tainted, you cannot judge? I see so many people who go to church every Sunday, who like to quote the Bible, who think that they are right just because they go to church, read the Bible, and follow the priest. I dare to protest. What good is it if you only go to church if only to chant what you have been chanting ever since you remember? What good is it if you read the Bible if you can't understand what is being said when each time you read a verse you can get a new meaning for it?
+
+What good is it if you follow the priest, when he is just another human being, prone to make any mistake any other person can make? I may protest, but I don’t ask anyone to follow me. I don’t want anyone following me. I am doing nothing but just expressing my personal view. Religion is a personal choice; you can interpret it any way you want. Prayers are not about praying together. Praying together does not make the collective voice louder to God. So why is inter-caste marriage frowned upon?
+
+I would say because people have not yet learned to think; all they can do is follow the flock. The lord said, I am the shepherd, and you are my flock. Now the duty of shepherd has been taken over by priests, not just one, but a whole lot for each region, with each of them leading the flock in the way they think. And the flock, stupid sheep, can do nothing but follow the shepherd and the rest of the flock. Once a person has made peace with the lord and himself, then he would be able to think for himself. He would be able to distinguish right from wrong without looking in the scriptures for assistance. He would then see the light, understand that what religion attempts to do so futilely, is to accept other beings, whether human or not, just the way they are, without any prejudice. But how could that happen, when everything we do is so much based on the leader-follower principle? There are just too many leaders, all too happy to mess up the minds of people to gain followers. The human being, with its superior intelligence, is hoodwinked to believe the leader whose principles match their interests.
+
+May God have mercy on us.
