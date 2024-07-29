@@ -1,14 +1,14 @@
 ---
 layout: post
-title:  'Must-Read Books for Men: A Curated List with Insights'
+title:  'Must-Read Books: A Curated List with Insights'
 date:   2024-07-29 12:37:00 +0530
 categories: Lists
 tags: reading, literature
 ---
 
-## Must-Read Books for Men: A Curated List with Insights
+## Must-Read Books: A Curated List with Insights
 
-This post delves into ten recommended books for men, providing a brief overview of their significance and drawing from various sources.
+This [article](https://www.timesnownews.com/lifestyle/books/features/books-every-man-should-read/photostory/112035901.cms/10) recommends ten books for men. I am not sure why it is recommended for "men", but adding it for later reading/reference.
 
 ### Recommended Books
 
@@ -23,5 +23,5 @@ This post delves into ten recommended books for men, providing a brief overview 
 * **The Road** by Cormac McCarthy: A post-apocalyptic tale of a father and son's journey, exploring themes of survival, love, and the human spirit. *Source: Literary analysis and book reviews*
 * **Rich Dad Poor Dad** by Robert T. Kiyosaki: A financial guide that challenges conventional wisdom about money, emphasizing financial education and investment. *Source: Book summaries and financial advice*
 
-**Original Source:** [https://www.timesnownews.com/lifestyle/books/features/books-every-man-should-read/photostory/112035901.cms/10]
+[Original Source](https://www.timesnownews.com/lifestyle/books/features/books-every-man-should-read/photostory/112035901.cms/10)
 
