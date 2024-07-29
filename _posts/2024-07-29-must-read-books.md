@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Must-Read Books for Men: A Curated List with Insights
+title:  'Must-Read Books for Men: A Curated List with Insights'
 date:   2024-07-29 12:37:00 +0530
 categories: Lists
 tags: reading, literature
